@@ -345,7 +345,7 @@ h1,h2,h3,h4,h5,h6 {
 ============================================================*/
 
 #section-services {
-    background: #f9f9f9;
+    background: rgb(37, 67, 102);
 }
 
 .section-heading {
@@ -769,7 +769,7 @@ ul.work li.active {
 }
 
 .henry-contact-form {
-  background: #f9f9f9 none repeat scroll 0 0;
+  background: none repeat scroll 0 0;
   padding-left: 0;
   padding-right: 0;
 }
@@ -901,3 +901,6 @@ ul.work li.active {
 
 /*extra*/
 
+#skills-word{
+    color:white;
+}
