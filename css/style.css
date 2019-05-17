@@ -765,23 +765,49 @@ ul.work li.active {
 ==========================================================*/
 
 .section-contact {
-     padding: 90px 0;
-}
-
-.henry-contact-form {
-  background: none repeat scroll 0 0;
-  padding-left: 0;
-  padding-right: 0;
-}
-
-.col-md-7.henry-form {
-
-    padding: 20px 30px 21px;
+    padding: 90px 0;
 }
 
 .col-md-5.henry-address {
-  background: #2a2a2a none repeat scroll 0 0;
-  padding: 20px 20px 150px;
+    background: #2a2a2a none repeat scroll 0 0;
+    padding: 20px 20px;
+}
+
+.henry-address > h2 {
+    color: #fff;
+}
+
+.henry-address > p {
+    color: #fff;
+    padding: 20px 0;
+    justify-items: center;
+}
+
+.calling-address {
+    color: #fff;
+}
+
+.henry-phone {
+    background: #fff none repeat scroll 0 0;
+    border-radius: 18px;
+    color: #2a2a2a;
+    height: 35px;
+    width: 35px;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Other */
+.henry-contact-form {
+    background: none repeat scroll 0 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.col-md-7.henry-form {
+    padding: 20px 30px 21px;
 }
 
 .form-control {
@@ -816,18 +842,10 @@ ul.work li.active {
 
 .list-inline {
     margin-left: 0;
+    color: white;
 }
 
-.henry-address > h2 {
-  color: #fff;
-}
-
-.henry-address > p {
-  color: #fff;
-  padding: 20px 0;
-}
-
-.henry-phone {
+/* .henry-phone {
     background: #2a2a2a none repeat scroll 0 0;
     border-radius: 18px;
     color: #164ea3;
@@ -837,23 +855,9 @@ ul.work li.active {
     padding: 10px;
     text-align: center;
     width: 35px;
-}
+} */
 
-.calling-address {
-    color: #fff;
-}
 
-.henry-phone {
-    background: #fff none repeat scroll 0 0;
-    border-radius: 18px;
-    color: #2a2a2a;
-    height: 35px;
-    margin-right: 10px;
-    margin-top: 10px;
-    padding: 10px;
-    text-align: center;
-    width: 35px;
-}
 
 /*=====================================================
     SECTION FOOTER
