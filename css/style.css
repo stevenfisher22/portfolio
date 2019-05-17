@@ -874,16 +874,16 @@ ul.work li.active {
 
 .nipp-social-icon a {
     color: #fff;
-    font-size: 14px;
+    font-size: 16px;
     margin: 0 3px;
     -webkit-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
 }
 
 .nipp-social-icon li a {
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     color: #fff;
-    font-weight: 700;
+    /* font-weight: 700; */
 }
 
 .nipp-social-icon a:hover {
