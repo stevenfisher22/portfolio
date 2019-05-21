@@ -477,6 +477,14 @@ ul.work li.active {
     transition: all 0.4s ease-out;
 }
 
+.portfolio-caption-insert {
+    margin-top: 25px;
+    margin-bottom: 0px;
+    font-size: 20px;
+    color: white;
+    font-weight:1000;
+}
+
 .portfolio-caption h4 {
     font-size: 12px;
     text-transform: uppercase;
@@ -486,7 +494,7 @@ ul.work li.active {
     transition: .3s;
     border: 1px solid #fff;
     padding: 10px 10px;
-    display: inline-block;
+    display: inline;
 }
 
 .work .item:hover .portfolio-caption {
